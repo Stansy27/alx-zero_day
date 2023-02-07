@@ -1,2 +1,2 @@
 My first readme
-My fisrt readme by Stansy
+My fisrt readme by stan
